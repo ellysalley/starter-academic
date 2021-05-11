@@ -2,7 +2,7 @@
 abstract: 본 논고를 통해 마이크로소프트의 포토신스를 소개하고, 이 기술이 문화재 복원 분야에서 보여줄 수 있는 가능성을 논의해 보도록 한다. 또한 향후 발전방향을 살펴보고, 여타 디지털라이징 기술과 달리 포토신스가 문화재 복원에 있어서 다른 매체나 기술과 어떤 차별점이 있는지 논한다. 
 
 authors:
-- admin
+- Seongeun Han
 date: "2008-05-01T00:00:00Z"
 doi: ""
 featured: false
@@ -30,6 +30,7 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+slides: ""
 ---
 
 

@@ -76,6 +76,6 @@ highlight_name: false
 
 A data engineer on weekdays, a CS graduate student on weekends.
 
-Before working as a data engineer, I used to analyze marketing/product data, and studied advertising and consumer psychology. Next thing I know, I became a CS graduate student.
+Before working as a data engineer, I used to analyze marketing and product data, and studied advertising and consumer psychology. Next thing I know, I became a CS graduate student.
 
 I've worked in the tech industry for a long time, but I always have love and hate relationship with this industry. I live in the Seattle area with a companion human and a companion cat. I don't think anything can beat the cuteness of a cat.

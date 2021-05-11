@@ -13,8 +13,8 @@ ko:
  languageCode: ko-kr
  contentDir: content/ko
  title: Elly's Alley
-#  params:
-#    description: Site description in Chinese...
+ params:
+   description: 목표와 불안을 나누며
  menu:
    main:
       - name: Home
