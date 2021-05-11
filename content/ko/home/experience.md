@@ -36,7 +36,7 @@ experience:
   description: ''
   location: Hong Kong
   title: Senior Data Analyst
-- company: Channel Corporation (fka ZOYI)
+- company: Channel Corporation (FKA ZOYI)
   company_url: https://channel.io/en
   date_end: '2015-07-01'
   date_start: '2011-01-01'
@@ -49,7 +49,7 @@ experience:
   date_start: '2007-01-01'
   description: ''
   location: South Korea
-  title: Enthusiast Evangelist / Academic Audience Marketing Manager
+  title: Enthusiast Evangelist / Audience Marketing Manager
 
 design:
   columns: '2'

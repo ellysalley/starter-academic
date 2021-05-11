@@ -74,8 +74,8 @@ email: ""
 highlight_name: false
 ---
 
-A data engineer on weekdays, a CS graduate student on weekends who believes that data is the backbone of any organization’s success.
+A data engineer on weekdays, a CS graduate student on weekends.
 
-I originally studied Consumer Psychology and Advertising, and used to work as a marketer/data analyst for many years from Microsoft to a small startup. 
+Before working as a data engineer, I used to analyze marketing/product data, and studied advertising and consumer psychology. Next thing I know, I became a CS graduate student.
 
-After immigrating to the United States, I pivoted my career as a data engineer. For doing so, I've got my 2nd bachelor's degree in Computer Engineering, completed a coding boot camp, and currently I'm pursuing a master's degree in Computer Science at Georgia Tech.
+I've worked in the tech industry for a long time, but I always have love and hate relationship with this industry. I live in the Seattle area with a companion human and a companion cat. I don't think anything can beat the cuteness of a cat.
