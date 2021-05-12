@@ -5,7 +5,7 @@ date: 2019-03-24T23:58:27+00:00
 url: /2019/03/24/person-who-knows-how-to-make
 aliases: /2019/03/24/만들-줄-아는-사람/
 categories:
-  - ko
+  - learning
 tags:
   - Computer Science
   - CS

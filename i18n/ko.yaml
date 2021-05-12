@@ -63,7 +63,7 @@
 - id: user_profile_latest
   translation: 최신
 - id: see_certificate
-  translation: 증서 보기
+  translation: See certificate
 - id: present
   translation: 현재
 - id: more_pages

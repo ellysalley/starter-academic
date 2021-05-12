@@ -31,7 +31,11 @@ ko:
       #   weight: 40
       - name: Publications
         url: '#publications'
-        weight: 50
+        weight: 40
       - name: Contact
         url: '#contact'
+        weight: 50
+      - name: CV
+        url: uploads/ellyhan_cv.pdf
         weight: 60
+    

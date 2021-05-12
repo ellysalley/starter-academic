@@ -60,9 +60,9 @@ appointment_url: 'https://calendly.com/ellysalley'
 main_menu:
   enable: true
   align: 1
-  show_logo: false
+  show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: true
 
@@ -121,15 +121,15 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: 'disqus'
   commentable:
     post: true
-    book: true
-    project: true
-    publication: true
-    event: true
+    book: false
+    project: false
+    publication: false
+    event: false
   disqus:
-    shortname: ''
+    shortname: 'melodeon'
     show_count: true
   commento:
     url: ''
