@@ -17,6 +17,13 @@ defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
+## Front Matter
+############################
+frontmatter:
+  lastmod:
+  - date
+
+############################
 ## MODULES
 ############################
 
