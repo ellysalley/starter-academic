@@ -22,9 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- company: Virgin Pulse
+  company_url: http://virginpulse.com/
+  date_end: ''
+  date_start: '2021-05-17'
+  description: ''
+  location: Seattle
+  title: Senior Data Engineer
 - company: Market Fit Lab
   company_url: https://mfitlab.com/
-  date_end: ''
+  date_end: '2021-05-07'
   date_start: '2018-06-01'
   description: ''
   location: Seattle
