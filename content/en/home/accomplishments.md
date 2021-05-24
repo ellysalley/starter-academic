@@ -42,14 +42,6 @@ item:
   organization_url: https://mixpanel.com/
   title: Partner Certification
   url: ''
-- certificate_url: https://1drv.ms/b/s!AsvvlKIRNiCTkNx5PzWHcCzhokeelg?e=kqgeAP
-  date_end: ""
-  date_start: "2018-06-01"
-  description: ""
-  organization: Lambda School
-  organization_url: 'http://lambdaschool.com/'
-  title: 'Full Stack Web Development'
-  url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/7B42X58R8E66
   date_end: ""
   date_start: "2017-03-01"
