@@ -24,6 +24,7 @@ date_format: Jan 2006
 experience:
 - company: Virgin Pulse
   company_url: http://virginpulse.com/
+  # company_logo: virginpulse
   date_end: ''
   date_start: '2021-05-17'
   description: ''
