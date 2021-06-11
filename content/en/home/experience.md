@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
 - company: Virgin Pulse
   company_url: http://virginpulse.com/
-  # company_logo: virginpulse
+  company_logo: vp
   date_end: ''
   date_start: '2021-05-17'
   description: ''
@@ -32,6 +32,7 @@ experience:
   title: Senior Data Engineer
 - company: Market Fit Lab
   company_url: https://mfitlab.com/
+  company_logo: mfitlab
   date_end: '2021-05-07'
   date_start: '2018-06-01'
   description: ''
@@ -39,6 +40,7 @@ experience:
   title: Data Engineer
 - company: AIA
   company_url: https://www.aia.com/en/index.html
+  company_logo: aia
   date_end: '2016-01-01'
   date_start: '2015-01-01'
   description: ''
@@ -46,6 +48,7 @@ experience:
   title: Senior Data Analyst
 - company: Channel Corporation (FKA ZOYI)
   company_url: https://channel.io/en
+  company_logo: channel
   date_end: '2015-07-01'
   date_start: '2011-01-01'
   description: ''
@@ -53,6 +56,7 @@ experience:
   title: Lead Data Analyst
 - company: Microsoft
   company_url: https://www.microsoft.com/
+  company_logo: microsoft
   date_end: '2010-01-01'
   date_start: '2007-01-01'
   description: ''
