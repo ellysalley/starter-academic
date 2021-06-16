@@ -26,6 +26,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/59ddf9b5c1c9c2cbbda7f27527b8aef873808b40
+  date_end: ''
+  date_start: '2021-06-16'
+  description: ''
+  organization: datacamp
+  organization_url: https://datacamp.com
+  title: SQL Fundamentals Track
+  url: ''
 - certificate_url: https://verify.skilljar.com/c/uceqjjccwyda
   date_end: ''
   date_start: '2021-04-01'
