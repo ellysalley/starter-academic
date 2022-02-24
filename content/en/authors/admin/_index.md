@@ -27,17 +27,17 @@ interests:
 education:
   courses:
   - 
-    course: M.S. in Computer Science
+    course: M.S. in Computer Science (Expected)
     institution: Georgia Institute of Technology
-    year: 2022 (Expected)
+    year: 
   - 
     course: M.A. in Psychology
     institution: Ewha W. University (S. Korea)
-    year: 2014
+    year: 
   - 
     course: B.A. in Advertising & Public Relations
     institution: Ewha W. University (S. Korea)
-    year: 2005
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
