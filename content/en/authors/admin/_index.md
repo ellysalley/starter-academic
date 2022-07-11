@@ -36,6 +36,6 @@ email: ''
 highlight_name: false
 
 ---
-Hi, I'm Elly! I'm a data engineer living in the Seattle area with my spouse, my baby girl, and a cat named Nana.
+Hi, I'm Elly! I'm a data engineer living in the Seattle area with my spouse, our baby girl, and a cat named Nana.
 
 I've worked in the tech industry for a long time, but I always have love and hate relationship with this industry. I don't think anything can beat the cuteness of a cat.
