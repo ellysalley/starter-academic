@@ -19,6 +19,11 @@ sections:
   label: About (EN)
   create: all
   match: "**/*"
+- type: directory
+  path: content/en/post
+  label: Blog (EN)
+  create: all
+  match: "**/*"
 upload_dir: config/_default/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
