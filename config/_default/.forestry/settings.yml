@@ -5,8 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: master/content/ko/post
-  label: Blog
+  path: content/ko/authors/admin
+  label: About (KR)
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ko/post
+  label: Blog (KR)
   create: all
   match: "**/*"
 - type: directory
